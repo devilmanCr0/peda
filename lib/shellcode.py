@@ -14,8 +14,9 @@ import random
 import socket
 import struct
 import traceback
-import six.moves.http_client
-from six.moves import range
+import six
+#import six.moves.http_client
+#from six.moves import range
 import sys
 
 import config
